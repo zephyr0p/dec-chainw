@@ -1,6 +1,7 @@
 // Solidity program
 // to store
 // Employee Details
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.6.8;
  
 // Creating a Smart Contract
