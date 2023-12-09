@@ -1,6 +1,7 @@
 // Solidity program to
 // retrieve address and
 // balance of owner
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.6.8;    
 // Creating a contract
 contract MyContract
